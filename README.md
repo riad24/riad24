@@ -22,17 +22,21 @@ I am Strong eye for detail and tenacity to never quit on something until it is a
 ### Technologies I've worked with.:
 
 ```json
-{
-  "languages": ["Javascript", "Typescript", "PHP", "Laravel", "C/++"],
-  "frameworks/libraries": {
-    "backend": ["Laravel","Nodejs", "Expressjs"],
-    "frontend": ["Flutter","Dart","Ionic5","Angular","Bootstrap",]
-  },
-  "database": ["Mysql", "PostgreSQL", "MongoDB","Firebasestorage"],
-  "misc": [
-    "Docker",
-    "Git",
-    "Nginx",
-  ]
+
+ {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "PHP", "Laravel", "Dart", "Flutter","ExpressJS","Ionic5"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd:  ["PHP","Laravel","NodeJs", "ExpressJs"],
+        mobileApp:["Flutter ", "Dart","Ionic5"],
+        devOps: ["Docker🐳", "Nginx","Git"],
+        databases: ["mongo", "MySql", "sqlite","Firebasestorage"],
+        misc: ["Firebase", "Socket.IO", "php"]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "Flutter Mobile App Development",
+    funFact: "There are two ways to write error-free programs; only the third one works"
 }
+
 ```
