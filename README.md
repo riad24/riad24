@@ -36,7 +36,7 @@ I am Strong eye for detail and tenacity to never quit on something until it is a
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "Flutter Mobile App Development",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "There are two ways to write error-free programs; only the third one works",
 }
 
 ```
