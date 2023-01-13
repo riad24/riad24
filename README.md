@@ -22,7 +22,6 @@ I am Strong eye for detail and tenacity to never quit on something until it is a
 ### Technologies I've worked with.:
 
 ```json
-
  {
     pronouns: "He" | "Him",
     code: ["Javascript", "PHP", "Laravel", "Dart", "Flutter","ExpressJS","Ionic5"],
@@ -34,9 +33,8 @@ I am Strong eye for detail and tenacity to never quit on something until it is a
         databases:   ["mongo", "MySql", "sqlite","Firebasestorage"],
         misc:        ["Firebase", "Socket.IO", "php"]
     },
-    architecture: ["Progressive web applications", "Single page applications"],
-    currentFocus: "Flutter Mobile App Development",
+    architecture: ["Progressive web applications","Mobile applications" "Single page applications"],
+    currentFocus: "Web Application & Flutter Mobile App Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 }
-
 ```
