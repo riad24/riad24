@@ -23,7 +23,6 @@ I am Strong eye for detail and tenacity to never quit on something until it is a
 
 ```json
  {
-    pronouns: "He" | "Him",
     code: ["Javascript", "PHP", "Laravel", "Dart", "Flutter","ExpressJS","Ionic5"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
