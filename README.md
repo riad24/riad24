@@ -23,7 +23,7 @@ I am Strong eye for detail and tenacity to never quit on something until it is a
 
 ```json
 {
-   "code":["Javascript", "PHP", "Laravel", "Dart", "Flutter", "ExpressJS", "Ionic5"],
+   "code":["Javascript", "PHP", "Laravel", "Dart", "Flutter", "ExpressJS", "Ionic"],
    "askMeAbout":["web dev", "tech", "app dev", "photography"],
    "technologies":{
       "backEnd":["PHP", "Laravel", "NodeJs", "ExpressJs"],
